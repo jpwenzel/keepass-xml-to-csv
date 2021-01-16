@@ -1,0 +1,19 @@
+<!DOCTYPE KEEPASSX_DATABASE>
+<database>
+ <group>
+  <title>My Keepass Vault</title>
+  <icon>0</icon>
+  <entry>
+   <title>1Password</title>
+   <username>me@example.com</username>
+   <password>MySuper_Secret(Passw0rd</password>
+   <url>https://my.1password.com</url>
+   <comment>Moving to a new password manager</comment>
+   <icon>0</icon>
+   <creation>2019-04-08T12:14:38</creation>
+   <lastaccess>2021-01-07T12:11:38</lastaccess>
+   <lastmod>2020-12-27T16:11:38</lastmod>
+   <expire>Never</expire>
+  </entry>
+</group>
+</database>
